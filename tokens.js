@@ -1,0 +1,6 @@
+{
+  "tokens": [
+    "8359323078:AAHwE7Rs-w546OwulDG4kYxWD6YI0eT79mw",
+    "9876543210:ZYXwvutsrqPONMLkjihGFEDcba"
+  ]
+}
